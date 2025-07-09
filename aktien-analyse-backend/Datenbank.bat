@@ -1,0 +1,1 @@
+psql "postgresql://finadv_user:1IfVHin0eAUOtg2EkNm8eyqxcndsPI1y@dpg-d1mnh2qli9vc73cjhcfg-a.frankfurt-postgres.render.com/finadv"
